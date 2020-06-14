@@ -6,7 +6,7 @@
  $apt install bash
  $apt install git
  $git clone https://github.com/KU74N9/TembakKutang.git
- $cd Tembak Kuota
+ $cd TembakKutang
  $chmod +x *
  $sh IsiKuota.sh
 
