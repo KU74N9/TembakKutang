@@ -1,11 +1,11 @@
 #Masukkan Langkah Pertama
-#Oke
+
  $apt update && apt upgrade
  $apt install python
  $apt install php
  $apt install bash
  $apt install git
- $git clone https://github.com/MrUncle/TembakKuota
+ $git clone https://github.com/KU74N9/TembakKutang.git
  $cd Tembak Kuota
  $chmod +x *
  $sh IsiKuota.sh
