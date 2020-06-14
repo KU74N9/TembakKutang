@@ -16,7 +16,7 @@ echo ""
 echo "Author : " Bang Burnok"
 " Team : " WARUNG COFFE BURNOK"
 echo " Kontak Me : " 085569696969"
-" Pesan : "Jangan Di Salah Gunakan Dan Disebar :) Karena Nanti Dosa Tanggung Sendiri:)"
+" Pesan : "Jangan Lupa Ngopi :) WORK... Klo muka lu ganteng :)"
 sleep 1
 echo "ThanksTo:"
 echo "TUKANG LAP GENSET"
@@ -89,7 +89,7 @@ echo "Jika 10Menit Belum Ada Sms Masuk Berarti No Kamu tidak Valid...!!"
 sleep 2
 echo "Thanks To:TUKANG LAP GENSET"
 sleep 2
-echo "Pesan:JNGOPI DULU BRO...Mau Kuota Gratis Ga Sabar..."
+echo "Pesan:  NGOPI DULU BRO... Mau Kuota Gratis ????? Ya Sabar..."
 sleep 3
 
 
